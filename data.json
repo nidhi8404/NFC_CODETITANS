@@ -1,0 +1,40 @@
+{
+	"posts": [
+		{
+			"id": "1",
+			"title": "Ayurvedic Principles",
+			"url": "https://www.youtube.com/watch?v=3B4VbW7y7_Y",
+			"content": "Provide an overview of Ayurveda, its history, and its core principles, including the concept of doshas (Vata, Pitta, Kapha), the importance of balance, and the role of Ayurvedic herbs and remedies. "
+		},
+		{
+			"id": "2",
+			"title": "Ayurvedic Treatments",
+			"url": "https://www.youtube.com/watch?v=2I3FdJzM6zw",
+			"content": "Describe Ayurvedic treatment modalities, such as Panchakarma (detoxification therapies), Ayurvedic massages, and yoga. Explain how these practices can promote health and healing."
+		},
+		{
+			"id": "3",
+			"title": "Nutrition and Diet",
+			"url": "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+			"content": "Provide guidance on Ayurvedic dietary principles, including the best foods for each dosha type and how to create balanced meals. Include recipes and meal plans"
+		},
+		{
+			"id": "4",
+			"title": "Lifestyle Practices",
+			"url": "https://www.youtube.com/watch?v=0vGWYrIpoII",
+			"content": "Share Ayurvedic lifestyle recommendations, including daily routines (Dinacharya) and seasonal adjustments (Ritucharya). Explain how these practices can contribute to overall well-being"
+		},
+		{
+			"id": "5",
+			"title": "Research and Evidence",
+			"url": "https://www.youtube.com/watch?v=7kO89o6kHts",
+			"content": " Discuss scientific research and studies that support the efficacy of Ayurvedic treatments and herbs. Include references to clinical trials and academic studies."
+		},
+    {
+			"id": "6",
+			"title": "Safety and Precautions:",
+			"url": "https://www.youtube.com/watch?v=B-w0VrUCojU",
+			"content": "Highlight the importance of consulting with a qualified Ayurvedic practitioner or healthcare provider before starting any Ayurvedic treatment. Provide information on potential contraindications and side effects."
+		}
+	]
+}
